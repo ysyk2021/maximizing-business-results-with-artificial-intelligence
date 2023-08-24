@@ -1,5 +1,3 @@
-Chapter 3: Automating Business Processes with AI
-================================================
 
 Artificial Intelligence (AI) technology has the potential to revolutionize business processes, streamlining operations and enhancing productivity. In this chapter, we will explore some of the ways that AI can be used to automate business processes and improve efficiency.
 
