@@ -1,5 +1,4 @@
-Chapter: Using AI-Powered Tools for Automating Repetitive Tasks, Such as Data Entry and Report Generation
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the benefits and applications of using AI-powered tools to automate repetitive tasks within businesses. Specifically, we will focus on how AI can streamline data entry and report generation processes, leading to increased efficiency and improved business results.
 

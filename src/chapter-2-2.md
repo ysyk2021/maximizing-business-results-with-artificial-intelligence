@@ -1,5 +1,4 @@
-Chapter: Common Applications of AI in Business, Including Marketing and Customer Service
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore common applications of artificial intelligence (AI) in business, with a focus on marketing and customer service. AI technologies have revolutionized these domains, enabling businesses to enhance their marketing strategies, improve customer experiences, and drive overall business results. We will cover the following topics:
 
